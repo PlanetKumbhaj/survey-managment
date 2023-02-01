@@ -1,5 +1,5 @@
-# sarvey-managment
-this is servey management build by python 
+# surveys-managment
+this is survey management build by python 
 here just install all feature 
 Install Python and dependencies
 This tutorial was created using Python 3.6. If you don't have a working Python install (or this project isn't working on your normal install), you can install Anaconda and run
